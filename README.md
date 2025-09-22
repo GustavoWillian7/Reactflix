@@ -10,7 +10,7 @@ Este projeto foi construído com foco em boas práticas, componentização, gere
 
 ### 🔗 Demo ao Vivo
 
-**Acesse a aplicação em funcionamento aqui:** []
+**Acesse a aplicação em funcionamento aqui:** [https://reactflix-delta.vercel.app/]
 
 ---
 
