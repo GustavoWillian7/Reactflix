@@ -1,6 +1,6 @@
 # 🎬 ReactFlix: Catálogo de Filmes
 
-![ReactFlix Screenshot]([https://github.com/GustavoWillian7/Reactflix/src/assets/reactflix.jpg])
+![ReactFlix Screenshot](./src/assets/reactflix.jpg)
 
 ## 📝 Descrição do Projeto
 
@@ -55,7 +55,7 @@ Você vai precisar ter o [Node.js](https://nodejs.org/en/) (versão LTS recomend
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [https://github.com/GustavoWillian7/Reactflix]
+    git clone https://github.com/GustavoWillian7/Reactflix
     ```
 
 2.  **Navegue até a pasta do projeto:**
